@@ -63,3 +63,14 @@ It was clear to us that if Southwark did have 'appropriate safeguards' in place 
 We subsequently contacted Southwark's Cabinet member for Regeneration in an attempt to raise the matter further and in June 2016, we met with him and two senior officers from the planning department. We were assured that the Council had efficient monitoring procedures in place but officers were unable to explain the details of what those monitoring procedures were or how the Bermondsey Spa homes had switched tenure, or the inconsistencies with the GLA data.
 
 We then referred the complaint to the Ombudsman that..
+
+![](http://35percent.org/img/dxwreport.png)
+*[DXW report](https://docs.google.com/presentation/d/e/2PACX-1vT128f_3q7of-OJEbyKG4JTfeYw-UTeT8V9ePDyUZlphzJ6aNya2Axpb-BHKSu3KKEhkl9iMegKQsp2/pub?start=false&loop=false&delayms=60000#slide=id.g6055a10a04_0_18)*
+
+![](http://35percent.org/img/snauditpromise.png)
+
+
+Southwark collects $m in monitoring fees from developers
+Screenshot from monitoring report
+
+![](/img/5462.png)
