@@ -11,7 +11,7 @@ published: true
 
 As a local campaign group focused on the delivery of housing that is affordable to local people in Southwark, we had the legitimate expectation that when our planning committee approves secures a given number of social rented homes as part of an application for planning consent, then each of those homes will be allocated directly to households on the Council's housing waiting list (currently numbering 13,000 households) - and remain allocated in perpetuity.
 
-![](/img/ahspd.png)
+![](http://35percent.org/img/ahspd.png)
 
 Indeed, Southwark's [Affordable Housing Policy](file:///C:/Users/Giuseppe/AppData/Local/Temp/Draft_Affordable_Housing_SPD_2011.pdf) requires this.
 
@@ -29,13 +29,13 @@ relies entirely upon trust that the developer will comply with the .. - indeed, 
 
 Why doesn't the Council just rely on the GLA to monitor affordable housing delivery?
 
-![](/img/glachecklist.jpg)
+![](http://35percent.org/img/glachecklist.jpg)
 
 The [GLA's monitoring process for its AHP funded homes](https://www.london.gov.uk/file/50558569) monitors only the rent levels at first let.
 
 In Policy H7 of the London Plan, the Mayor requires boroughs to have *clear monitoring processes* to ensure that affordable housing is delivered and remains affordable:
 
-![](/img/lpmonitoring.png)
+![](http://35percent.org/img/lpmonitoring.png)
 
 In cases where we have brought breaches to the Council's attention it has taken no enforcement action.
 
@@ -52,7 +52,7 @@ We asked a local Councillor to get in touch with the housing association to conf
 
 We also checked the Council's [choice-based letting system](https://www.southwarkhomesearch.org.uk/) and found the homes being advertised at rents well above social rent levels.
 
-![](/img/nhghomesearch.jpg)
+![](http://35percent.org/img/nhghomesearch.jpg)
 
 We were somewhat surprised that there didn't seem to be any control
 
@@ -73,4 +73,4 @@ We then referred the complaint to the Ombudsman that..
 Southwark collects $m in monitoring fees from developers
 Screenshot from monitoring report
 
-![](/img/5462.png)
+![](http://35percent.org/img/5462.png)
