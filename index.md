@@ -1,15 +1,16 @@
----
-layout: page
-title: Affordable Housing Monitoring
-published: true
----
-## The problem
+# Affordable Housing monitoring
 
-* Social housing approved by the Council is either not being delivered or delivered under a different (higher rent) tenure to that approved.
-* In cases where social housing is being delivered as approved, there is no mechanism to ensure that the homes are allocated to local people on the Council's waiting list.
+## The problem:
+Southwark has a high proportion of social housing managed by housing associations - circa 17,000 according to a [recent Council report.](http://moderngov.southwark.gov.uk/documents/s87983/Report%20The%20councils%20relationships%20with%20housing%20associations.pdf)
 
+The majority of these are homes in new-build developments approved by the Council's planning committee and secured under section 106 agreements. According to [Council data](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) over 15,000 of these have been approved during the last 15 years alone.
 
-As a local campaign group focused on the delivery of housing that is affordable to local people in Southwark, we had the legitimate expectation that when our planning committee approves secures a given number of social rented homes as part of an application for planning consent, then each of those homes will be allocated directly to households on the Council's housing waiting list (currently numbering 13,000 households) - and remain allocated in perpetuity.
+But the Council has no way of knowing if these homes have actually been delivered, because once a development has been approved it relies purely on trust that the developer will deliver them.
+
+Neither does it have a mechanism for ensuring that any social housing which is built is allocated to local families on its housing waiting list.
+
+## Background
+As a local group campaigning for new developments in the borough to provide a proportion of affordable housing to meet local housing need. We held the legitimate expectation that when our planning committee approves secures a given number of social rented homes as part of an application for planning consent, then each of those homes will be allocated directly to households on the Council's housing waiting list (currently numbering 13,000 households) - and remain allocated in perpetuity.
 
 ![](http://35percent.org/img/ahspd.png)
 
@@ -64,13 +65,24 @@ We subsequently contacted Southwark's Cabinet member for Regeneration in an atte
 
 We then referred the complaint to the Ombudsman that..
 
-![](http://35percent.org/img/dxwreport.png)
-*[DXW report](https://docs.google.com/presentation/d/e/2PACX-1vT128f_3q7of-OJEbyKG4JTfeYw-UTeT8V9ePDyUZlphzJ6aNya2Axpb-BHKSu3KKEhkl9iMegKQsp2/pub?start=false&loop=false&delayms=60000#slide=id.g6055a10a04_0_18)*
+
 
 ![](http://35percent.org/img/snauditpromise.png)
 
 
-Southwark collects $m in monitoring fees from developers
-Screenshot from monitoring report
+Southwark charges developers a monitoring fee for monitoring ongoing section 106 compliance. To date it has collected $xx million.
 
-![](http://35percent.org/img/5462.png)
+Statutory obligations - land charges/conveyancing
+Sound evidence base for determining planning policy
+
+## The audit
+The Ombudsman required Southwark to conduct an audit
+
+![](http://35percent.org/img/dxwreport.png)
+*[DXW report](https://docs.google.com/presentation/d/e/2PACX-1vT128f_3q7of-OJEbyKG4JTfeYw-UTeT8V9ePDyUZlphzJ6aNya2Axpb-BHKSu3KKEhkl9iMegKQsp2/pub?start=false&loop=false&delayms=60000#slide=id.g6055a10a04_0_18)*
+
+Southwark acknwoledges that the audit was only partially completed because of
+
+
+
+Southwark should apply to the land registry under refXX for the addresses of all properties owned by these housing associations. It would then be able to use the geo-location data (UPRN numbers) to link these properties to their relevant planning consents (Southwark's planning consent data contains geo-locational data).
